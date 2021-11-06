@@ -16,7 +16,7 @@ def hesapoyun()
             puts "TEBRİKLER , bildiniz PUAN DURUMU : #{puan} "
             break
         elsif  hak == 0
-            puts "maalesef hakkınız bitti , bir sonraki sefere :D"
+            puts "maalesef hakkınız bitti , sayınız = #{x} idi , bir sonraki sefere :D"
             break
         elsif value < x
             puts "YUKARI"
